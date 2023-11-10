@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XW5JpwP_)
 # Exercise 2: Comparing data to predictions (20 points)
 
 In this week's exercise we will work on comparing observations (data) to predictions. In particular, we will explore three different ways in which we can compare data to a prediction:
