@@ -34,3 +34,12 @@ Before starting to work with the problems for this week, you should start a new 
 There are 3 problems for this week in one notebook.
 
 - [Problems 1-3: Comparing data to predictions (20 points)](Exercise-2-problems-1-3.ipynb)
+## Exercise 2 grade and feedback: 10.5 / 18.0 points
+### Grader
+- graderbot (*awaiting review by a course grader!*)
+### Problem scores
+- Problem 1: 4.0 / 8.5 
+- Problem 2: 3.0 / 6.0 
+- Problem 3: 3.5 / 3.5 
+### Comments
+- Comments will be added here.
